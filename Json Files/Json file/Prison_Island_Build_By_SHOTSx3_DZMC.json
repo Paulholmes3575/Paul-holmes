@@ -1,0 +1,2059 @@
+{
+    "Objects": [
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2715.34130859375,
+                0.7989883422851563,
+                1429.4212646484376
+            ],
+            "ypr": [
+                -43.093746185302737,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2735.260986328125,
+                0.8021678924560547,
+                1448.0703125
+            ],
+            "ypr": [
+                -43.093719482421878,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2674.40966796875,
+                0.7963056564331055,
+                1391.1328125
+            ],
+            "ypr": [
+                -43.09362030029297,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2694.34228515625,
+                0.798701286315918,
+                1409.7786865234376
+            ],
+            "ypr": [
+                -43.09363555908203,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2760.875244140625,
+                -0.2768259048461914,
+                1479.009521484375
+            ],
+            "ypr": [
+                -17.617589950561525,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2786.890869140625,
+                -0.2744302749633789,
+                1487.2664794921876
+            ],
+            "ypr": [
+                -17.617626190185548,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2814.296142578125,
+                -0.2770519256591797,
+                1495.9683837890626
+            ],
+            "ypr": [
+                -17.61775016784668,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2840.301025390625,
+                -0.2709636688232422,
+                1504.2357177734376
+            ],
+            "ypr": [
+                -17.61774253845215,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2487.276611328125,
+                -0.6002888679504395,
+                1452.160400390625
+            ],
+            "ypr": [
+                -94.01966094970703,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2483.3388671875,
+                -0.5959939956665039,
+                1508.062255859375
+            ],
+            "ypr": [
+                -94.01982116699219,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2580.77783203125,
+                -0.41036224365234377,
+                1535.48974609375
+            ],
+            "ypr": [
+                172.8336181640625,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2553.69189453125,
+                -0.4083261489868164,
+                1532.08935546875
+            ],
+            "ypr": [
+                172.83387756347657,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2525.171875,
+                -0.4128694534301758,
+                1528.5123291015626
+            ],
+            "ypr": [
+                172.83387756347657,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2498.100341796875,
+                -0.40450000762939455,
+                1525.1058349609376
+            ],
+            "ypr": [
+                172.8336181640625,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2661.71533203125,
+                -0.010515689849853516,
+                1634.50439453125
+            ],
+            "ypr": [
+                -78.11100006103516,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2667.3271484375,
+                -0.003926753997802734,
+                1661.206298828125
+            ],
+            "ypr": [
+                -78.11092376708985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2650.164794921875,
+                -0.009788990020751953,
+                1579.6556396484376
+            ],
+            "ypr": [
+                -78.11067199707031,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2655.79150390625,
+                -0.008222103118896485,
+                1606.3653564453126
+            ],
+            "ypr": [
+                -78.11067199707031,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3040.865478515625,
+                -0.31971311569213869,
+                1281.1649169921876
+            ],
+            "ypr": [
+                -54.33919906616211,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3056.7626953125,
+                -0.31224632263183596,
+                1303.3380126953126
+            ],
+            "ypr": [
+                -54.33905029296875,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3008.18359375,
+                -0.31810855865478518,
+                1235.6260986328126
+            ],
+            "ypr": [
+                -54.33866500854492,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3024.100830078125,
+                -0.3165416717529297,
+                1257.801513671875
+            ],
+            "ypr": [
+                -54.33866500854492,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2956.41357421875,
+                0.2081155776977539,
+                1339.9881591796876
+            ],
+            "ypr": [
+                159.71121215820313,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3008.9921875,
+                0.20884227752685548,
+                1359.420166015625
+            ],
+            "ypr": [
+                159.71160888671876,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2983.386474609375,
+                0.21036624908447267,
+                1349.958740234375
+            ],
+            "ypr": [
+                159.7114715576172,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2823.842529296875,
+                0.2924947738647461,
+                1328.2432861328126
+            ],
+            "ypr": [
+                5.652593612670898,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2851.00634765625,
+                0.2948904037475586,
+                1325.5509033203126
+            ],
+            "ypr": [
+                5.652507781982422,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2879.61865234375,
+                0.28912973403930666,
+                1322.718017578125
+            ],
+            "ypr": [
+                5.652426719665527,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2812.4375,
+                -0.11650514602661133,
+                1434.026123046875
+            ],
+            "ypr": [
+                30.08538055419922,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2837.31787109375,
+                -0.12226581573486328,
+                1419.611572265625
+            ],
+            "ypr": [
+                30.085302352905275,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2788.8212890625,
+                -0.11931419372558594,
+                1447.7132568359376
+            ],
+            "ypr": [
+                30.085447311401368,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2859.038818359375,
+                -0.30099964141845705,
+                1648.6990966796876
+            ],
+            "ypr": [
+                -67.68106842041016,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2869.399658203125,
+                -0.2935333251953125,
+                1673.9398193359376
+            ],
+            "ypr": [
+                -67.68087005615235,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2837.7509765625,
+                -0.2993955612182617,
+                1596.8460693359376
+            ],
+            "ypr": [
+                -67.6805419921875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2848.12451171875,
+                -0.2994375228881836,
+                1622.0968017578126
+            ],
+            "ypr": [
+                -67.68040466308594,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2789.18115234375,
+                -0.29275035858154299,
+                1614.7593994140626
+            ],
+            "ypr": [
+                58.505191802978519,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2803.446533203125,
+                -0.28528499603271487,
+                1591.500732421875
+            ],
+            "ypr": [
+                58.5053825378418,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2759.905517578125,
+                -0.29114627838134768,
+                1662.557373046875
+            ],
+            "ypr": [
+                58.505821228027347,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2774.161865234375,
+                -0.28997325897216799,
+                1639.279541015625
+            ],
+            "ypr": [
+                58.50577926635742,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2961.483642578125,
+                -0.40362548828125,
+                1568.7481689453126
+            ],
+            "ypr": [
+                149.06666564941407,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2938.0810546875,
+                -0.39615821838378909,
+                1554.72216796875
+            ],
+            "ypr": [
+                149.06687927246095,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3009.56591796875,
+                -0.4020214080810547,
+                1597.5601806640626
+            ],
+            "ypr": [
+                149.0671844482422,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2986.1455078125,
+                -0.4020967483520508,
+                1583.5340576171876
+            ],
+            "ypr": [
+                149.06716918945313,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3034.182861328125,
+                -0.3962087631225586,
+                1612.365234375
+            ],
+            "ypr": [
+                148.8826446533203,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2938.2822265625,
+                -0.025214195251464845,
+                1496.458251953125
+            ],
+            "ypr": [
+                -122.69940948486328,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2923.54150390625,
+                -0.017747879028320314,
+                1519.4190673828126
+            ],
+            "ypr": [
+                -122.69924926757813,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2968.564453125,
+                -0.02361011505126953,
+                1449.288818359375
+            ],
+            "ypr": [
+                -122.69898986816406,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2953.822265625,
+                -0.023679733276367189,
+                1472.2646484375
+            ],
+            "ypr": [
+                -122.69866180419922,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2997.989013671875,
+                0.041136741638183597,
+                1403.1778564453126
+            ],
+            "ypr": [
+                -122.5342025756836,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2983.31494140625,
+                0.04867267608642578,
+                1426.1796875
+            ],
+            "ypr": [
+                -122.53389739990235,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3013.457275390625,
+                0.04276847839355469,
+                1378.9375
+            ],
+            "ypr": [
+                -122.53343963623047,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3169.21875,
+                1.004481315612793,
+                1309.8291015625
+            ],
+            "ypr": [
+                -140.87734985351563,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3148.04638671875,
+                1.0134992599487305,
+                1327.036376953125
+            ],
+            "ypr": [
+                -140.87722778320313,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3212.700927734375,
+                1.0076370239257813,
+                1274.4578857421876
+            ],
+            "ypr": [
+                -140.8768310546875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3191.52685546875,
+                1.0092039108276368,
+                1291.6844482421876
+            ],
+            "ypr": [
+                -140.8768310546875,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2937.40576171875,
+                -0.48500537872314455,
+                1767.087890625
+            ],
+            "ypr": [
+                -82.5431900024414,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2940.95458984375,
+                -0.48366641998291018,
+                1794.15380859375
+            ],
+            "ypr": [
+                -82.5431900024414,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3311.631103515625,
+                -0.3492860794067383,
+                1922.2900390625
+            ],
+            "ypr": [
+                -104.97787475585938,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3304.58251953125,
+                -0.34598827362060549,
+                1948.6619873046876
+            ],
+            "ypr": [
+                -104.97787475585938,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2775.9599609375,
+                0.5117493867874146,
+                1858.744384765625
+            ],
+            "ypr": [
+                58.36995315551758,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2790.27001953125,
+                0.5130883455276489,
+                1835.498779296875
+            ],
+            "ypr": [
+                58.36992645263672,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3221.2509765625,
+                0.9332532286643982,
+                1802.63525390625
+            ],
+            "ypr": [
+                100.89506530761719,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                3216.084228515625,
+                0.934573233127594,
+                1775.8311767578126
+            ],
+            "ypr": [
+                100.89506530761719,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2466.697509765625,
+                -0.4947633743286133,
+                1771.8248291015626
+            ],
+            "ypr": [
+                138.7655792236328,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2446.164794921875,
+                -0.4934654235839844,
+                1753.8375244140626
+            ],
+            "ypr": [
+                138.7655792236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2787.8828125,
+                33.41478729248047,
+                1171.9134521484376
+            ],
+            "ypr": [
+                40.94108581542969,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2754.496826171875,
+                33.53468322753906,
+                1209.06884765625
+            ],
+            "ypr": [
+                93.37942504882813,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2821.172119140625,
+                33.50035858154297,
+                1231.9134521484376
+            ],
+            "ypr": [
+                -136.54473876953126,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2547.389404296875,
+                28.36696434020996,
+                1312.9053955078126
+            ],
+            "ypr": [
+                101.93084716796875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2585.536865234375,
+                22.753873825073243,
+                1396.671630859375
+            ],
+            "ypr": [
+                177.81182861328126,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big3",
+            "pos": [
+                2607.028076171875,
+                23.00395393371582,
+                1286.994140625
+            ],
+            "ypr": [
+                -76.06694793701172,
+                -0.9636303782463074,
+                -0.2390996217727661
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_1",
+            "pos": [
+                2617.149658203125,
+                21.922040939331056,
+                1277.603759765625
+            ],
+            "ypr": [
+                -166.69100952148438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_3",
+            "pos": [
+                2593.739990234375,
+                21.781999588012697,
+                1304.52001953125
+            ],
+            "ypr": [
+                14.788100242614746,
+                -1.899999976158142,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_2",
+            "pos": [
+                2583.530029296875,
+                21.7406005859375,
+                1307.1400146484376
+            ],
+            "ypr": [
+                15.181798934936524,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_4",
+            "pos": [
+                2573.330078125,
+                21.741331100463868,
+                1309.81005859375
+            ],
+            "ypr": [
+                14.397298812866211,
+                -0.9999996423721314,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                2646.470947265625,
+                24.481874465942384,
+                1311.394775390625
+            ],
+            "ypr": [
+                -79.81134033203125,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2435.971923828125,
+                6.333656311035156,
+                1745.8138427734376
+            ],
+            "ypr": [
+                -132.54612731933595,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2796.6796875,
+                7.691790580749512,
+                1823.78125
+            ],
+            "ypr": [
+                147.36993408203126,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2936.364990234375,
+                6.772615909576416,
+                1754.302001953125
+            ],
+            "ypr": [
+                -172.0417938232422,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                3315.578369140625,
+                6.42783260345459,
+                1909.2032470703126
+            ],
+            "ypr": [
+                163.4380645751953,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                3212.32373046875,
+                7.364469528198242,
+                1759.793212890625
+            ],
+            "ypr": [
+                -170.518798828125,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2931.46044921875,
+                5.87782621383667,
+                1551.4765625
+            ],
+            "ypr": [
+                -121.01265716552735,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                3016.197021484375,
+                5.654934406280518,
+                1375.5447998046876
+            ],
+            "ypr": [
+                147.0089874267578,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                3215.958984375,
+                7.178662300109863,
+                1272.396728515625
+            ],
+            "ypr": [
+                127.80030822753906,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2999.9453125,
+                5.70749044418335,
+                1223.207763671875
+            ],
+            "ypr": [
+                -144.84896850585938,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2948.65625,
+                6.471231460571289,
+                1337.7711181640626
+            ],
+            "ypr": [
+                -111.7223892211914,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2809.149169921875,
+                6.542272090911865,
+                1329.2437744140626
+            ],
+            "ypr": [
+                -84.58692169189453,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2669.5810546875,
+                7.16726541519165,
+                1386.0303955078126
+            ],
+            "ypr": [
+                -133.9790496826172,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2489.1220703125,
+                6.302308082580566,
+                1434.8082275390626
+            ],
+            "ypr": [
+                174.3482666015625,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_CementWorks_ExpeditionB",
+            "pos": [
+                2485.4267578125,
+                -0.5823888778686523,
+                1479.1151123046876
+            ],
+            "ypr": [
+                -94.09383392333985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2647.084716796875,
+                6.3189520835876469,
+                1561.9041748046876
+            ],
+            "ypr": [
+                -168.37777709960938,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2758.659423828125,
+                6.631573677062988,
+                1477.7994384765626
+            ],
+            "ypr": [
+                -110.28507232666016,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2814.4736328125,
+                6.341580867767334,
+                1572.87109375
+            ],
+            "ypr": [
+                149.22470092773438,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardTower",
+            "pos": [
+                2832.64013671875,
+                6.102294445037842,
+                1582.3990478515626
+            ],
+            "ypr": [
+                -157.1508331298828,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks3",
+            "pos": [
+                2796.2041015625,
+                28.180343627929689,
+                1187.094482421875
+            ],
+            "ypr": [
+                130.52984619140626,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks2",
+            "pos": [
+                2768.775390625,
+                27.40682601928711,
+                1197.5830078125
+            ],
+            "ypr": [
+                -49.62059020996094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks2",
+            "pos": [
+                2762.07958984375,
+                27.39740753173828,
+                1203.3450927734376
+            ],
+            "ypr": [
+                -49.62057876586914,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks3",
+            "pos": [
+                2774.15234375,
+                28.151443481445314,
+                1214.20751953125
+            ],
+            "ypr": [
+                41.54786682128906,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                2760.231201171875,
+                27.063642501831056,
+                1220.60791015625
+            ],
+            "ypr": [
+                40.72246170043945,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks3",
+            "pos": [
+                2776.80810546875,
+                28.14328384399414,
+                1185.7091064453126
+            ],
+            "ypr": [
+                -138.49615478515626,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big3",
+            "pos": [
+                2786.48583984375,
+                27.027910232543947,
+                1199.97705078125
+            ],
+            "ypr": [
+                40.737205505371097,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_1",
+            "pos": [
+                2814.232177734375,
+                25.976844787597658,
+                1200.9825439453126
+            ],
+            "ypr": [
+                -140.26223754882813,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_2",
+            "pos": [
+                2808.296875,
+                25.985244750976564,
+                1205.9285888671876
+            ],
+            "ypr": [
+                -139.2946319580078,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_3",
+            "pos": [
+                2823.460693359375,
+                25.991544723510743,
+                1212.0723876953126
+            ],
+            "ypr": [
+                40.56303787231445,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Tent_Big1_5",
+            "pos": [
+                2817.46484375,
+                25.976974487304689,
+                1216.8135986328126
+            ],
+            "ypr": [
+                40.86368942260742,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Fortified_Nest_Big",
+            "pos": [
+                2805.47412109375,
+                26.870258331298829,
+                1217.95166015625
+            ],
+            "ypr": [
+                -138.82345581054688,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardShed",
+            "pos": [
+                2813.32275390625,
+                27.22793197631836,
+                1239.8587646484376
+            ],
+            "ypr": [
+                103.26180267333985,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardShed",
+            "pos": [
+                2809.1025390625,
+                27.179401397705079,
+                1235.8245849609376
+            ],
+            "ypr": [
+                160.34524536132813,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks6",
+            "pos": [
+                2492.376220703125,
+                4.424867153167725,
+                1251.3238525390626
+            ],
+            "ypr": [
+                -70.2628402709961,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks6",
+            "pos": [
+                2494.119140625,
+                3.758253574371338,
+                1286.3240966796876
+            ],
+            "ypr": [
+                -99.68901824951172,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks5",
+            "pos": [
+                2612.7744140625,
+                27.37616539001465,
+                1310.1343994140626
+            ],
+            "ypr": [
+                -168.55996704101563,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                3246.58935546875,
+                4.263111114501953,
+                1246.473876953125
+            ],
+            "ypr": [
+                134.3526611328125,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Barracks_Round",
+            "pos": [
+                3250.976806640625,
+                3.996577739715576,
+                1253.9935302734376
+            ],
+            "ypr": [
+                106.31586456298828,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_Camp",
+            "pos": [
+                2762.62548828125,
+                27.52980613708496,
+                1281.8836669921876
+            ],
+            "ypr": [
+                96.57743072509766,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_Camp",
+            "pos": [
+                2741.10791015625,
+                26.784942626953126,
+                1284.2952880859376
+            ],
+            "ypr": [
+                90.70136260986328,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2815.0498046875,
+                26.909961700439454,
+                1214.0054931640626
+            ],
+            "ypr": [
+                -139.0807342529297,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2821.053466796875,
+                26.905677795410158,
+                1209.2740478515626
+            ],
+            "ypr": [
+                -139.0807342529297,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2816.586669921875,
+                26.914470672607423,
+                1203.837646484375
+            ],
+            "ypr": [
+                39.276405334472659,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2810.693359375,
+                26.990192413330079,
+                1208.7122802734376
+            ],
+            "ypr": [
+                40.72768020629883,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2787.19482421875,
+                26.848876953125,
+                1207.3599853515626
+            ],
+            "ypr": [
+                -46.60835266113281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2778.616455078125,
+                26.82048797607422,
+                1199.800048828125
+            ],
+            "ypr": [
+                -46.60835266113281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Big_L",
+            "pos": [
+                2787.552001953125,
+                26.800580978393556,
+                1193.8046875
+            ],
+            "ypr": [
+                -48.002750396728519,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2572.396240234375,
+                22.64341163635254,
+                1306.2147216796876
+            ],
+            "ypr": [
+                -166.137451171875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2582.535400390625,
+                22.694828033447267,
+                1303.47509765625
+            ],
+            "ypr": [
+                -166.137451171875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2592.78662109375,
+                22.855653762817384,
+                1300.92822265625
+            ],
+            "ypr": [
+                -166.137451171875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2600.15283203125,
+                22.73482894897461,
+                1284.305908203125
+            ],
+            "ypr": [
+                -166.137451171875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2610.75390625,
+                22.855600357055665,
+                1280.1468505859376
+            ],
+            "ypr": [
+                -166.137451171875,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_FenG_Open",
+            "pos": [
+                2618.0,
+                22.868534088134767,
+                1281.1912841796876
+            ],
+            "ypr": [
+                14.013517379760743,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Uaz",
+            "pos": [
+                2786.93994140625,
+                26.450000762939454,
+                1270.5999755859376
+            ],
+            "ypr": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Lada_Green",
+            "pos": [
+                2785.004638671875,
+                26.275392532348634,
+                1274.107666015625
+            ],
+            "ypr": [
+                54.00002670288086,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                2782.588623046875,
+                26.28847312927246,
+                1276.836669921875
+            ],
+            "ypr": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_S1023_Blue",
+            "pos": [
+                2781.235595703125,
+                26.449743270874025,
+                1280.09326171875
+            ],
+            "ypr": [
+                62.99997329711914,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_V3S",
+            "pos": [
+                2774.179931640625,
+                27.299999237060548,
+                1284.3800048828126
+            ],
+            "ypr": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Trailer_Closed",
+            "pos": [
+                2769.75,
+                26.700000762939454,
+                1288.9100341796876
+            ],
+            "ypr": [
+                107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Container_1Aoh",
+            "pos": [
+                2568.8798828125,
+                22.8700008392334,
+                1296.5999755859376
+            ],
+            "ypr": [
+                18.000001907348634,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Container_1Bo",
+            "pos": [
+                2581.860107421875,
+                22.700000762939454,
+                1288.8599853515626
+            ],
+            "ypr": [
+                -152.99998474121095,
+                0.20420639216899873,
+                0.10404897481203079
+            ],
+            "scale": 0.9999971389770508,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Power_Pole_Conc4_Lamp_Amp",
+            "pos": [
+                2579.47998046875,
+                20.399999618530275,
+                1386.43994140625
+            ],
+            "ypr": [
+                35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        }
+    ]
+}

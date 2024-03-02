@@ -1,0 +1,150 @@
+<type name="Wreck_UH1Y">
+        <nominal>18</nominal>
+        <lifetime>180000</lifetime>
+        <restock>0</restock>
+        <min>18</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="Airdrop"/>
+        <usage name="Smoke" />
+    </type>
+    
+    <type name="Land_Roadblock_WoodenCrate">
+        <nominal>0</nominal>
+        <lifetime>180000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    
+<!-- New Entry for cfglimitsdefinition.xml -->
+ 
+<category name="Airdrop"/>
+<usage name="Smoke"/>
+ 
+<!-- New entry for mapgroupproto.xml -->
+ 
+        <group name="HeliTest" lootmax="18">
+               <usage name="Smoke" />
+               <container name="loot" lootmax="18">
+                      <category name="Airdrop"/>
+               </container>
+               <dispatch>
+                       <proxy type="Wreck_UH1Y" pos="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+               </dispatch>
+        </group>
+        
+    <group name="Land_Roadblock_WoodenCrate" lootmax="14">
+        <usage name="Military"/>
+                <container name="lootTop" lootmax="9">
+                        <category name="explosives"/>
+                        <category name="weapons"/>
+                        <category name="containers" />
+                            <point pos="0.208985 0.390473 -0.220703" range="0.900000" height="1.500000" />
+                            <point pos="0.547852 0.393585 0.260742" range="0.140000" height="1.500000" />
+                            <point pos="-0.183593 0.390991 -0.250977" range="0.140000" height="1.500000" />
+                            <point pos="-0.512695 0.392044 0.221679" range="0.140000" height="1.500000" />
+                            <point pos="-0.533203 0.391510 -0.252930" range="0.140000" height="1.500000" />
+                            <point pos="-0.187500 0.392410 0.301757" range="0.140000" height="1.500000" />
+                            <point pos="0.561524 0.389923 -0.269532" range="0.140000" height="1.500000" />
+                            <point pos="0.089844 0.392746 0.242187" range="0.900000" height="1.500000" />
+                            <point pos="0.370118 0.391205 0.012695" range="0.140000" height="1.500000" />
+                </container>
+                <container name="lootGround" lootmax="5">
+                        <category name="containers" />
+                        <category name="clothes" />
+                        <category name="weapons"/>
+                        <category name="explosives"/>
+                            <point pos="2.124024 -0.235901 -0.083008" range="0.900000" height="1.500000" />
+                            <point pos="0.711914 -0.241302 2.417968" range="0.900000" height="1.500000" />
+                            <point pos="-0.354492 -0.240906 1.742187" range="0.900000" height="1.500000" />
+                            <point pos="-1.213867 -0.237549 0.047851" range="0.900000" height="1.500000" />
+                            <point pos="0.163086 -0.234573 -1.083985" range="0.900000" height="1.500000" />
+                            <point pos="-1.061523 -0.235092 -0.799805" range="0.900000" height="1.500000" />
+                            <point pos="-1.424804 -0.233841 -1.629883" range="0.900000" height="1.500000" />
+                            <point pos="2.259766 -0.234390 -1.216797" range="0.900000" height="1.500000" />
+                            <point pos="-2.456054 -0.236877 -0.825196" range="0.900000" height="1.500000" />
+                            <point pos="-1.985351 -0.243271 1.805664" range="0.900000" height="1.500000" />
+                            <point pos="0.525391 -0.232590 -2.576172" range="0.900000" height="1.500000" />
+                            <point pos="2.647461 -0.238663 1.991211" range="0.900000" height="1.500000" />
+                            <point pos="-2.733398 -0.240753 0.490234" range="0.900000" height="1.500000" />
+                            <point pos="1.223633 -0.237717 1.285156" range="0.900000" height="1.500000" />
+                            <point pos="-0.682617 -0.235824 -2.246093" range="0.500000" height="1.500000" />
+                            <point pos="2.271484 -0.235824 -2.258789" range="0.500000" height="1.500000" />
+                            <point pos="2.850586 -0.235824 0.765625" range="0.500000" height="1.500000" />
+                            <point pos="1.308594 -0.235824 3.195313" range="0.500000" height="1.500000" />
+                            <point pos="0.180664 -0.235824 0.854492" range="0.500000" height="1.500000" />
+                            <point pos="1.197266 -0.235824 0.177735" range="0.500000" height="1.500000" />
+                </container>
+</group>
+        
+<!-- New entry for mapgrouppos.xml -->
+ 
+    <group name="HeliTest" pos="12306.359375 3.548245 3521.211426" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="9660.831055 292.513824 8798.898438" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="7360.007813 296.087036 7569.601563" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="4389.860840 6.208564 2760.073975" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="3669.459717 201.864609 12720.231445" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="852.122803 144.293732 5438.522461" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="11047.526367 207.770813 12201.674805" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="3521.031494 260.160034 14466.552734" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="4446.424805 336.408020 10239.415039" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="11313.557617 268.697968 5696.464844" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="6590.850586 459.297241 14948.581055" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="6456.352051 142.497070 12624.000000" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="1696.433472 267.539001 11870.688477" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="2352.739746 273.862305 11123.719727" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="2658.206299 259.751862 9813.668945" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="1989.620361 284.998077 9052.891602" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="2530.434082 303.044586 6368.189453" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    <group name="HeliTest" pos="4484.460449 296.411438 6253.093750" rpy="0.000000 0.000000 0.000000" a="0.0" />
+    
+<!-- New entry for events.xml -->
+ 
+    <event name="StaticDrop">
+        <nominal>3</nominal> 
+        <min>0</min>
+        <max>0</max>
+        <lifetime>2500</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>100</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="10" lootmin="15" max="1" min="1" type="Land_Roadblock_WoodenCrate"/>
+        </children>
+    </event>
+    
+<!-- New entry for cfgeventspawns.xml --> 
+ 
+<event name="StaticDrop">
+    <zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
+    <pos x="12306.359375" y="0.0" z="3521.211426" a="0.0" />
+    <pos x="9660.831055" y="0.0" z="8798.898438" a="0.0" />
+    <pos x="7360.007813" y="0.0" z="7569.601563" a="0.0" />
+    <pos x="4389.860840" y="0.0" z="2760.073975" a="0.0" />
+    <pos x="3669.459717" y="0.0" z="12720.231445" a="0.0" />
+    <pos x="852.122803" y="0.0" z="5438.522461" a="0.0" />
+    <pos x="11047.526367" y="0.0" z="12201.674805" a="0.0" />
+    <pos x="3521.031494" y="0.0" z="14466.552734" a="0.0" />
+    <pos x="4446.424805" y="0.0" z="10239.415039" a="0.0" />
+    <pos x="11313.557617" y="0.0" z="5696.464844" a="0.0" />
+    <pos x="6590.850586" y="0.0" z="14948.581055" a="0.0" />
+    <pos x="6456.352051" y="0.0" z="12624.000000" a="0.0" />
+    <pos x="1696.433472" y="0.0" z="11870.688477" a="0.0" />
+    <pos x="2352.739746" y="0.0" z="11123.719727" a="0.0" />
+    <pos x="2658.206299" y="0.0" z="9813.668945" a="0.0" />
+    <pos x="1989.620361" y="0.0" z="9052.891602" a="0.0" />
+    <pos x="2530.434082" y="0.0" z="6368.189453" a="0.0" />
+    <pos x="4484.460449" y="0.0" z="6253.093750" a="0.0" />
+</event>
