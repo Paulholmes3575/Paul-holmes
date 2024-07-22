@@ -1,4 +1,4 @@
-</type>
+        </type>
 		<type name="Truck_01_Covered">
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
@@ -41,6 +41,172 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+            <item name="CanisterGasoline" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BatteryCharger" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="PowerGenerator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TireRepairKit" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="LugWrench" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="MediumGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Blowtorch" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="CableReel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="ElectronicRepairKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EpoxyPutty" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Wrench" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="HeadlightH7_Box" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7_Box" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="Truck_01_Covered_Orange">
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+            <item name="CanisterGasoline" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="BatteryCharger" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="PowerGenerator" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="TireRepairKit" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="LugWrench" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="MediumGasCanister" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Blowtorch" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="CableReel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="ElectronicRepairKit" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EpoxyPutty" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="Wrench" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+            <item name="HeadlightH7_Box" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7_Box" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="Truck_01_Covered_Blue">
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1_Blue" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
             <item name="CanisterGasoline" chance="1.00" />
